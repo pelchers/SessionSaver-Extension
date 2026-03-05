@@ -1,0 +1,2 @@
+import{c as t,j as e}from"./client-CkJjbv6o.js";function i(){chrome.runtime.openOptionsPage()}t.createRoot(document.getElementById("root")).render(e.jsxs("div",{style:{padding:12,width:260,fontFamily:"system-ui, Segoe UI, Arial"},children:[e.jsx("div",{style:{fontWeight:700,marginBottom:8},children:"SessionSaver"}),e.jsx("button",{onClick:i,style:{width:"100%",padding:"8px 10px"},children:"Open Library"})]}));
+//# sourceMappingURL=index.html-lZ63oLo2.js.map
