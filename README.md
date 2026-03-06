@@ -9,9 +9,9 @@ This repository is a distribution mirror for the SessionSaver Chrome extension.
 
 ## Build Provenance
 
-- Source branch: $sourceBranch
-- Source commit: $sourceCommit
-- Published at: $publishedAt
+- Source branch: feature/session-explorer
+- Source commit: 672aef9
+- Published at: 2026-03-05 20:23:01 -05:00
 
 ## Local Load
 
